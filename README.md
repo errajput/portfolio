@@ -1,35 +1,34 @@
-"# portfolio"
+# Disha Rajput - Developer Portfolio
 
-## Project Title: Personal Portfolio Website
+Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information as a **Full Stack Web Developer**. Built using **HTML**, **CSS**, and **JavaScript**, the design is fully responsive, clean, and accessible.
 
-- Description:
-  A fully responsive personal portfolio website built using HTML5 and CSS3 to showcase my skills, projects, and contact information in a clean and modern layout. The website includes an interactive navigation bar, hero section with profile introduction, detailed "About Me" area, project showcase cards with GitHub links, and a contact form with social media links.
+---
 
-- Key Features:
-  Modern UI/UX with responsive design (works seamlessly on mobile, tablet, and desktop)
+## Live Demo
 
-- Hamburger menu for smaller screens
+🔗 [View Live Website](https://your-live-url.com)  
+🧑‍💻 [GitHub Repository](https://github.com/errajput/portfolio)
 
-- Sidebar with quick navigation
+---
 
-- Interactive project cards linking to real GitHub repositories
+## Features
 
-- Contact form with input validation styling
+- Responsive Design for all screen sizes
+- Sticky Navbar with smooth scroll navigation
+- Mobile menu toggle using JavaScript
+- “Get in Touch” contact form section
+- Font Awesome icons for modern UI
+- Highlighted tech stack and recent works/projects
+- SEO optimized and accessible (with meaningful alt text)
 
-- Font Awesome icons and Google Fonts integration
+---
 
-- Clean and semantic HTML structure
+## Technologies Used
 
-### Tech Stack:
-
-HTML5
-
-CSS3 (Flexbox, Grid, Media Queries)
-
-Font Awesome
-
-Google Fonts
-
-### Purpose:
-
-This project serves as a personal branding website and a live resume to showcase my frontend and basic full stack skills, making it easier for recruiters and clients to view my work, skills, and contact details in one place.
+| Tech         | Description                            |
+| ------------ | -------------------------------------- |
+| HTML5        | Page structure and semantic layout     |
+| CSS3         | Styling with Flexbox and media queries |
+| JavaScript   | Navigation toggle and interactivity    |
+| Font Awesome | Icons used in navbar, skills, etc.     |
+| Google Fonts | "Poppins" font for modern typography   |
