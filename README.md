@@ -6,7 +6,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Live Demo
 
-🔗 [View Live Website](https://your-live-url.com)  
 🧑‍💻 [GitHub Repository](https://github.com/errajput/portfolio)
 
 ---
